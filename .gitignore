@@ -8,3 +8,7 @@ frontend/build/
 models/chromadb/
 data/raw/
 *.zip
+data/processed/
+data/raw/
+models/
+*.csv
