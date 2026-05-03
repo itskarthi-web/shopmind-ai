@@ -3,7 +3,7 @@ import axios from 'axios';
 import { FiSend, FiShoppingBag, FiStar } from 'react-icons/fi';
 import './App.css';
 
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = 'const API_URL = 'https://shopmind-ai-twuh.onrender.com';';
 const SESSION_ID = 'user_' + Math.random().toString(36).substr(2, 9);
 
 function ProductCard({ product }) {
